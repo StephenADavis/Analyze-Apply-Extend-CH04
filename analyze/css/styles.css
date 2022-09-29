@@ -20,7 +20,7 @@ body, header, nav, main, footer, img, h1, h3 {
 
 /*Style rules for body content*/
 body {
-    padding 2%;
+    padding: 0%;
     background-color: #d1d1e0;
 }
 
