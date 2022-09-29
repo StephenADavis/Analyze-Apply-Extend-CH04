@@ -82,8 +82,11 @@ footer {
 }
 
 .link {
-  text-decoration: none
+  color: #47476b;
+  font-weight: bold;
+  font-style: italic;
 }
+
 a:link {
   text-decoration: none
 }
